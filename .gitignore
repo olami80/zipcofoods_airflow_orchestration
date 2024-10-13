@@ -1,2 +1,5 @@
 # file not t o be pushed into github
 .env
+
+#folder to be ignore
+zipcovenv
